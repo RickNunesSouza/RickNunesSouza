@@ -1,4 +1,5 @@
-[README.md](https://github.com/user-attachments/files/34881411/README.md)
+[README.md](https://github.com/user-attachments/files/34881547/README.md)
+
 # Hi, I'm Henrique 👋
 
 **Android Developer in training** focused on **Kotlin**, building real-world apps through hands-on projects at the **Nova Era** community.
@@ -23,8 +24,6 @@
 | Project | What it does | Highlights |
 |---|---|---|
 | [Calculadora IMC](https://github.com/RickNunesSouza/Calculadora-imc) | BMI calculator that shows the result and classification on a second screen | Input validation, Intents, Snackbar, branches + pull requests |
-| [RecyclerView](https://github.com/RickNunesSouza/RecyclerView) | Contact list with a detail screen | RecyclerView, ListAdapter, DiffUtil, Grid and Linear layouts |
-| [TaskBeat](https://github.com/RickNunesSouza/TaskBeat) | Task list organized by categories | Two RecyclerViews working together, category filter |
 | [FuelCalculator](https://github.com/RickNunesSouza/FuelCalculator) | Calculates the fuel cost of a trip | Multi-screen flow, passing data between Activities |
 | [Lifecycle Counter](https://github.com/RickNunesSouza/Contator-ciclo-de-vida-) | Counter app to practice the Activity lifecycle | onCreate, onStart, onResume, onPause, onStop, onDestroy |
 
